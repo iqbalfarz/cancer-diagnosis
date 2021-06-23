@@ -1,6 +1,13 @@
 # Personalized Medicine: Redefining Cancer Treatment
 Cancer Diagnosis using Machine Learning
 
+## How to Run?
+<pre>
+1. download dataset and jupyter notebook.
+2. put dataset and jupyter notebook in the same folder.
+3. Extract the dataset and run the jupyter notebook.
+</pre>
+
 ## Business Problem
 ### Description
 In this competition you will develop algorithms to classify genetic mutations based on clinical evidence (text).
